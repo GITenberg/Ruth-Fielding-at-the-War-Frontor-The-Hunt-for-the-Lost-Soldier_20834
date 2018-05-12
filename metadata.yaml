@@ -1,0 +1,29 @@
+_repo: Ruth-Fielding-at-the-War-Frontor-The-Hunt-for-the-Lost-Soldier_20834
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- World War I
+gutenberg_issued: '2007-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- War work -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Women -- Juvenile fiction'
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+title: Ruth Fielding at the War Front; or, The Hunt for the Lost Soldier
+url: http://www.gutenberg.org/ebooks/20834
